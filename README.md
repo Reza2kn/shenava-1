@@ -19,7 +19,7 @@ Central release hub for **Shenava 1.0**, an open streaming Persian ASR and capti
 
 ## Dataset Scale
 
-- `visualears-persian-asr-16k`: 3,927,733 public HF rows, 509.0 GB of parquet/audio data.
+- `visualears-persian-asr-16k`: 3,927,733 public HF rows, 7,771.12 hours, 509.0 GB of parquet/audio data.
 - Audited Phase A/B curriculum pool: 3,803,064 rows / 7,685.12 hours.
 - Relabel pool: 454,675 rows / 690.00 hours.
 - Filtered relabel subset: 231,959 rows / 412.31 hours.
