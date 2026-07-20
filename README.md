@@ -2,6 +2,8 @@
 
 Central release hub for **Shenava 1.0**, an open streaming Persian ASR and captioning stack spanning trained models, deployable runtimes, datasets, semantic evaluation, leaderboard tooling, and public applications.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X5Q123I7SW)
+
 ## Start Here
 
 | Area | Link | What it is for |
