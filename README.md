@@ -92,3 +92,7 @@ Central release hub for **Shenava 1.0**, an open streaming Persian ASR and capti
 | Project-owned code, cards, benchmark tooling, and derived artifacts | Apache-2.0 unless a repository card states otherwise. |
 | Third-party-derived audio sources | Original source licenses apply; dataset cards are the source of truth for per-source rights. |
 | Non-permissive or incompatible sources | Isolated or excluded from Apache-2.0 claims. |
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
